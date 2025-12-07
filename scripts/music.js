@@ -123,7 +123,6 @@ const generateRandomDuration = () => {
     return Math.floor(Math.random() * (360 - 180) + 180);
 };
 
-// Dados
 let episodesData = [
     {
         id: 1,
