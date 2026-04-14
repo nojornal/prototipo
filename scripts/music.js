@@ -126,8 +126,8 @@ const generateRandomDuration = () => {
 let episodesData = [
     {
         id: 1,
-        nome: "1.Apresentação",
-        autor: "Thiago Smaykel, Ayana, Fernanda,",
+        nome: "Projeto Fortalecimento curso Jornalismo",
+        autor: "Autor..",
         data: "12 Nov 2025",
         descricao: "aduio",
         audio: "audios/Avant_Jazz.mp3",
