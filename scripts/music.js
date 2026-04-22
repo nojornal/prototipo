@@ -126,7 +126,7 @@ const generateRandomDuration = () => {
 let episodesData = [
     {
         id: 1,
-        nome: "Projeto Fortalecimento curso Jornalismo",
+        nome: "Projeto Fortalecimento",
         autor: "Autor..",
         data: "12 Nov 2025",
         descricao: "aduio",
